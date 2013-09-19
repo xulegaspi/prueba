@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2639160513">
+    <data-source source="LOCAL" name="Django default" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="9f975730-73f6-44aa-a2a0-49bf0a0f9c3a">
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:db_postgres_prueba</jdbc-url>
+      <user-name>xurxo</user-name>
+      <user-password>df92df9edf92df9f</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/.PyCharm20/config/jdbc-drivers/postgresql-driver-license.txt</url>
+        </library>
+        <library>
+          <url>file://$USER_HOME$/.PyCharm20/config/jdbc-drivers/postgresql-9.2-1002.jdbc3.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+

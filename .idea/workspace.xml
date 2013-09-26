@@ -2,21 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d02efc89-4c2b-4e48-a3b2-704d3035cb9f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prueba_app/models.py" afterPath="$PROJECT_DIR$/prueba_app/models.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prueba/settings.py" afterPath="$PROJECT_DIR$/prueba/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prueba_app/tests.py" afterPath="$PROJECT_DIR$/prueba_app/tests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prueba_app/views.py" afterPath="$PROJECT_DIR$/prueba_app/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="prueba.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/settings.py" changelist="d02efc89-4c2b-4e48-a3b2-704d3035cb9f" time="1380204191357" ignored="false" />
+    <file path="/settings.py" changelist="d02efc89-4c2b-4e48-a3b2-704d3035cb9f" time="1380204425169" ignored="false" />
     <file path="/Dummy.txt" changelist="d02efc89-4c2b-4e48-a3b2-704d3035cb9f" time="1380204066291" ignored="false" />
-    <file path="/models.py" changelist="d02efc89-4c2b-4e48-a3b2-704d3035cb9f" time="1380039909395" ignored="false" />
+    <file path="/models.py" changelist="d02efc89-4c2b-4e48-a3b2-704d3035cb9f" time="1380207102403" ignored="false" />
     <file path="/admin.py" changelist="d02efc89-4c2b-4e48-a3b2-704d3035cb9f" time="1380040152637" ignored="false" />
     <file path="/base_site.html" changelist="d02efc89-4c2b-4e48-a3b2-704d3035cb9f" time="1380041285173" ignored="false" />
     <file path="/urls.py" changelist="d02efc89-4c2b-4e48-a3b2-704d3035cb9f" time="1380123003154" ignored="false" />
-    <file path="/views.py" changelist="d02efc89-4c2b-4e48-a3b2-704d3035cb9f" time="1380123143796" ignored="false" />
+    <file path="/views.py" changelist="d02efc89-4c2b-4e48-a3b2-704d3035cb9f" time="1380208028800" ignored="false" />
     <file path="/detail.html" changelist="d02efc89-4c2b-4e48-a3b2-704d3035cb9f" time="1380117760048" ignored="false" />
     <file path="/404.html" changelist="d02efc89-4c2b-4e48-a3b2-704d3035cb9f" time="1380118512066" ignored="false" />
     <file path="/500.html" changelist="d02efc89-4c2b-4e48-a3b2-704d3035cb9f" time="1380118684705" ignored="false" />
     <file path="/index.html" changelist="d02efc89-4c2b-4e48-a3b2-704d3035cb9f" time="1380119519938" ignored="false" />
+    <file path="/tests.py" changelist="d02efc89-4c2b-4e48-a3b2-704d3035cb9f" time="1380208655105" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,37 +46,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prueba/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="12" selection-start="51" selection-end="51" vertical-scroll-proportion="0.032858707">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="500.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/500.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="46" selection-start="0" selection-end="167" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base_site.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/admin/base_site.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prueba_app/templates/polls/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="83" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0">
+            <state line="2" column="12" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -89,35 +67,19 @@
       <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prueba_app/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="47" selection-start="1193" selection-end="1193" vertical-scroll-proportion="0.0">
+            <state line="28" column="0" selection-start="979" selection-end="979" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="results.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prueba_app/templates/polls/results.html">
+      <file leaf-file-name="tests.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prueba_app/tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="58" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="404.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/404.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="detail.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prueba_app/templates/polls/detail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="7" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="16" column="40" selection-start="423" selection-end="423" vertical-scroll-proportion="0.26286966">
+              <folding>
+                <element signature="e#184#199#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -126,6 +88,15 @@
         <entry file="file://$PROJECT_DIR$/prueba_app/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state line="6" column="1" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prueba_app/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="9" selection-start="767" selection-end="767" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -151,7 +122,6 @@
       <list>
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/prueba/wsgi.py" />
-        <option value="$PROJECT_DIR$/prueba_app/models.py" />
         <option value="$PROJECT_DIR$/prueba_app/admin.py" />
         <option value="$PROJECT_DIR$/templates/admin/base_site.html" />
         <option value="$PROJECT_DIR$/templates/404.html" />
@@ -161,13 +131,15 @@
         <option value="$PROJECT_DIR$/prueba_app/templates/polls/results.html" />
         <option value="$PROJECT_DIR$/prueba/urls.py" />
         <option value="$PROJECT_DIR$/prueba_app/urls.py" />
-        <option value="$PROJECT_DIR$/prueba_app/views.py" />
         <option value="$PROJECT_DIR$/prueba/settings.py" />
+        <option value="$PROJECT_DIR$/prueba_app/models.py" />
+        <option value="$PROJECT_DIR$/prueba_app/views.py" />
+        <option value="$PROJECT_DIR$/prueba_app/tests.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="64" />
+    <option name="x" value="1984" />
     <option name="y" value="-4" />
     <option name="width" value="1857" />
     <option name="height" value="1085" />
@@ -481,7 +453,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-4" width="1857" height="1085" extended-state="6" />
+    <frame x="1984" y="-4" width="1857" height="1085" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -564,11 +536,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prueba/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="1419" selection-end="1419" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="13" selection-start="0" selection-end="14" vertical-scroll-proportion="0.0">
@@ -579,13 +546,6 @@
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prueba_app/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="42" selection-start="886" selection-end="886" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prueba_app/admin.py">
@@ -619,20 +579,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prueba_app/templates/polls/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="83" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prueba_app/templates/polls/detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="7" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prueba_app/templates/polls/results.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="58" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0">
@@ -647,6 +593,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/prueba/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="12" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba_app/templates/polls/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="83" selection-start="237" selection-end="237" vertical-scroll-proportion="-2.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba_app/templates/polls/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="7" selection-start="465" selection-end="465" vertical-scroll-proportion="-6.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/prueba_app/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="1" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0">
@@ -654,17 +621,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prueba_app/views.py">
+    <entry file="file://$PROJECT_DIR$/prueba_app/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="47" selection-start="1193" selection-end="1193" vertical-scroll-proportion="0.0">
+        <state line="23" column="9" selection-start="767" selection-end="767" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prueba/settings.py">
+    <entry file="file://$PROJECT_DIR$/prueba_app/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="12" selection-start="51" selection-end="51" vertical-scroll-proportion="0.032858707">
+        <state line="28" column="0" selection-start="979" selection-end="979" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prueba_app/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="40" selection-start="423" selection-end="423" vertical-scroll-proportion="0.26286966">
+          <folding>
+            <element signature="e#184#199#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

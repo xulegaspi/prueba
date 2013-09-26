@@ -3,11 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="d02efc89-4c2b-4e48-a3b2-704d3035cb9f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prueba/settings.py" afterPath="$PROJECT_DIR$/prueba/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="prueba.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/settings.py" changelist="d02efc89-4c2b-4e48-a3b2-704d3035cb9f" time="1380204105376" ignored="false" />
+    <file path="/settings.py" changelist="d02efc89-4c2b-4e48-a3b2-704d3035cb9f" time="1380204191357" ignored="false" />
     <file path="/Dummy.txt" changelist="d02efc89-4c2b-4e48-a3b2-704d3035cb9f" time="1380204066291" ignored="false" />
     <file path="/models.py" changelist="d02efc89-4c2b-4e48-a3b2-704d3035cb9f" time="1380039909395" ignored="false" />
     <file path="/admin.py" changelist="d02efc89-4c2b-4e48-a3b2-704d3035cb9f" time="1380040152637" ignored="false" />
@@ -45,7 +44,7 @@
       <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/prueba/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="13" selection-start="52" selection-end="52" vertical-scroll-proportion="0.032858707">
+            <state line="2" column="12" selection-start="51" selection-end="51" vertical-scroll-proportion="0.032858707">
               <folding />
             </state>
           </provider>
@@ -664,7 +663,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/prueba/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="52" selection-end="52" vertical-scroll-proportion="0.032858707">
+        <state line="2" column="12" selection-start="51" selection-end="51" vertical-scroll-proportion="0.032858707">
           <folding />
         </state>
       </provider>
